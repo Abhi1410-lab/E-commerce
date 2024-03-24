@@ -12,7 +12,8 @@ app.use(express.json());
 app.use(cors());
 
 // Database connection with mongodb
-mongoose.connect("mongodb+srv://***********@cluster0.snideoh.mongodb.net/e-commerce")
+//Line deleted due to sensitive content 
+//mongoose.connect(......)
 
 //API creation 
 
